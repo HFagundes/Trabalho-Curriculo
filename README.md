@@ -1,2 +1,2 @@
-# Trabalho-Curriculo
-Trabalho para a Faculdade fazendo um curriculo fictício.
+# Trabalho-Currículo
+Trabalho para a Faculdade fazendo um currículo fictício.
